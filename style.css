@@ -1,0 +1,63 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color:bisque ;
+}
+.headerdiv{
+    background: white;
+    color: red;
+}
+.headerdiv img{
+    width: 100px;
+}
+.cam{
+    background: wheat;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+.cam label{
+     background: white;
+     width: 310px;
+     padding: 10px;
+     margin-bottom: 0px;
+box-shadow: 5px 5px 18px grey;
+    }
+
+#cammera, #snap{
+    border: 2px solid grey;
+width: 310px;
+height: 300px;
+box-shadow: 5px 5px 18px grey;
+margin-top: 15px;
+}
+
+.cam button{
+    width:310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px grey;
+    border:  1px solid grey;
+    margin-top: 15px;
+}
+.footer-div{
+    margin-bottom: 50px;
+}
+.footer-div  h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px grey;
+    
+}
+.footer-div img{
+    width: 70px;
+}
+.copyright-footer{
+    position: fixed;
+    color: slategray;
+    bottom: 0;
+    width: 100%;
+    background-color: snow;
+    line-height: 3;
+    text-align: center;
+    
+}
